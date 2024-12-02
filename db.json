@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": "9bf8",
+      "name": "Latoya Sporer"
+    },
+    {
+      "id": "eaaf",
+      "name": "Linda Keebler"
+    },
+    {
+      "id": "c679",
+      "name": "Karla Medhurst"
+    },
+    {
+      "id": "4eab",
+      "name": "Ms. Emily Dickinson"
+    }
+  ],
+  "albums": [
+    {
+      "id": 1,
+      "tittle": "Vallarta",
+      "userId": "9bf8"
+    },
+    {
+      "id": "2cf4",
+      "tittle": "Unbranded Frozen Computer"
+    },
+    {
+      "id": "a9a9",
+      "tittle": "Refined Fresh Shoes"
+    }
+  ],
+  "photos": []
+}
