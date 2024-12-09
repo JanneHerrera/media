@@ -9,27 +9,23 @@
       "name": "Linda Keebler"
     },
     {
-      "id": "c679",
-      "name": "Karla Medhurst"
+      "id": "7435",
+      "name": "Shaun O'Hara"
     },
     {
-      "id": "4eab",
-      "name": "Ms. Emily Dickinson"
+      "id": "69dc",
+      "name": "Roderick Yundt"
+    },
+    {
+      "id": "aeef",
+      "name": "Gerard Wiza"
     }
   ],
   "albums": [
     {
-      "id": 1,
-      "tittle": "Vallarta",
-      "userId": "9bf8"
-    },
-    {
-      "id": "2cf4",
-      "tittle": "Unbranded Frozen Computer"
-    },
-    {
-      "id": "a9a9",
-      "tittle": "Refined Fresh Shoes"
+      "id": "2eb5",
+      "userId": "9bf8",
+      "title": "Awesome Soft Pizza"
     }
   ],
   "photos": []
